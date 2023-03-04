@@ -1,0 +1,70 @@
+body{
+
+    margin: 0% ;
+    padding: 0px;
+    background-image: url(Img/Fondo2.jpg);
+
+}
+#titulo {
+    margin-top:14% ;
+    margin-left:17% ;
+    width: 600px;/*ancho*/
+    height:20px;/*altura*/
+    padding:10px;
+    background:transparent;
+    border-radius: 5px;
+    font-family: sans-serif;
+    color:white;
+    font-size:40px;
+}
+.texto {
+    margin-left:13%;
+    width: 400px;/*ancho*/
+    height: 250px;/*altura*/
+    padding: 30px;
+    background:linear-gradient(rgb( 0, 31, 52),rgb(0, 44, 73));
+    border-radius: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+
+#mensaje-usuario {
+    margin-left: 3%;
+    width:300px;
+    height:60px;
+    font-size:15px;
+}
+#desplazamiento-usuario{
+    margin-top:4%;
+    margin-left:1%;
+    width:250px;
+    height:20px;
+}
+#btn-cifrar {
+    margin-left:34%;
+    margin-top:4%;
+    padding: 7px;
+    width: 80px;
+    height: 30px;
+    background-color:lightgray;
+    
+}
+#btn-descifrar {
+    margin-left:2%;
+    padding: 7px;
+    width: 80px;
+    height: 30px;
+    background-color:lightgray;
+}
+#resultado-mensaje{
+    margin-left: 1%;
+    margin-top:4%;
+    margin-bottom: 0%;
+    width:378px;
+    height:60px;
+    font-size:15px;
+}
+#observacion{
+    margin-top: 2%;
+    margin-left: 3%;
+}
