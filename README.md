@@ -125,7 +125,7 @@ La página web está dirigida para aquellos amigos, colegas o compañeros que qu
 Con la página podrán contar o expresar lo que quieran decir a otra persona, el emisor cifrara el mensaje con la cantidad de desplazamiento que elija, y el receptor del mensaje podrás descifrar el mensaje con el desplazamiento escogido previamente por el emisor y esta información quedara entre ellos y ninguna otra persona ajena lograra leer o comprender el mensaje enviado.
 
 Vista Previa:
-![Proyecto Final](Img/ProductoFinal.jpg)
+<img src="https://github.com/AngieMora1/DEV005-cipher/blob/main/src/Img/ProductoFinal.jpg"
 
 ## 5. Hito Opcional: Agrega soporte para minúsculas y otros caracteres
 
