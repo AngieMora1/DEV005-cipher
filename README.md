@@ -117,14 +117,14 @@ El código final debe estar subido en un repositorio en GitHub.
 La interfaz o pagina web, debe ser "desplegada" usando GitHub Pages.
 
 **4. Un README que contiene una definición del producto.**  
-  **Nombre del Proyecto:** Mensageria Secreta
+**Nombre del Proyecto:** Mensageria Secreta
 
-  **Descripción:**
+**Descripción:**
 
-    La página web está dirigida para aquellos amigos, colegas o compañeros que quieren contar algo; en ocasiones las personas no pueden expresar lo que quieren decir       con palabras bien sean se encuentra en una situación en donde no pueden hablar con comodidad de algún tema o estén a la distancia y desean expresar algo que           solamente el receptor entienda.
-    Con la página podrán contar o expresar lo que quieran decir a otra persona, el emisor cifrara el mensaje con la cantidad de desplazamiento que elija, y el receptor     del mensaje podrás descifrar el mensaje con el desplazamiento escogido previamente por el emisor y esta información quedara entre ellos y ninguna otra persona         ajena lograra leer o comprender el mensaje enviado.
+La página web está dirigida para aquellos amigos, colegas o compañeros que quieren contar algo; en ocasiones las personas no pueden expresar lo que quieren decir       con palabras bien sean se encuentra en una situación en donde no pueden hablar con comodidad de algún tema o estén a la distancia y desean expresar algo que           solamente el receptor entienda.
+Con la página podrán contar o expresar lo que quieran decir a otra persona, el emisor cifrara el mensaje con la cantidad de desplazamiento que elija, y el receptor     del mensaje podrás descifrar el mensaje con el desplazamiento escogido previamente por el emisor y esta información quedara entre ellos y ninguna otra persona         ajena lograra leer o comprender el mensaje enviado.
 
-Vista Previa:
+**Vista Previa:**
 ![Imagen](src/Img/ProductoFinal.jpg)
 
 ## 5. Hito Opcional: Agrega soporte para minúsculas y otros caracteres
