@@ -117,7 +117,7 @@ El código final debe estar subido en un repositorio en GitHub.
 La interfaz o pagina web, debe ser "desplegada" usando GitHub Pages.
 
 **4. Un README que contiene una definición del producto.**  
-**Nombre del Proyecto:** Mensageria Secreta
+**Nombre del Proyecto:** Mensajería Secreta
 
 **Descripción:**
 
